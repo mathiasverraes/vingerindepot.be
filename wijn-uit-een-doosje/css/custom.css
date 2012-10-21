@@ -1,0 +1,27 @@
+
+body { 
+	background-color: black;
+	background-image: url(../img/background.jpg);
+	color: #B9D48B;
+	text-shadow: 1px 1px 5px #000;
+	filter: dropshadow(color=#000, offx=1, offy=1);
+}
+
+div#main
+{
+	left: 28px;
+	top: 20px;
+	width: 301px;
+}
+h1, h2, #praktisch { 
+	color: #CE0A31;
+}
+#praktisch {
+	color: #D3E4C5;
+	}
+a:link, a:active, a:visited, a:hover {
+	color: #D3E4C5;
+}
+h1 {
+	font-size: 31px;
+}

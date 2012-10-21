@@ -1,0 +1,35 @@
+
+
+body { 
+	background-color: white;
+	background-image: url(../img/background.jpg);
+	color: #8CBF99;
+	text-shadow: 1px 1px 5px #fff;
+	filter: dropshadow(color=#fff, offx=1, offy=1); 
+}
+
+div#main
+{
+	left: 28px;
+	top: 20px;
+	width: 301px;
+}
+
+h1, h2 {
+	color: #DA825F; ;
+}
+h3 {
+	color: #C4975C; 
+}
+
+a:link, a:active, a:visited, a:hover {
+	color: #598C66;
+}
+
+.details {
+	color: #598C66;
+}
+
+ul {
+	line-height: 19px;
+	}
