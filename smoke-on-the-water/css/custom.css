@@ -1,0 +1,25 @@
+
+body {
+    background: black url(../img/background.jpg);
+    color: rgba(186, 218, 229, 1);
+}
+
+div#main
+{
+	left: 28px;
+	top: 20px;
+	width: 320px;
+    padding: 10px;
+    background-color:rgba(0,0,0,0.3);
+}
+
+
+h1 {
+	font-size: 31px;
+}
+
+a, a:active, a:visited, a:hover  {
+    color: rgba(186, 218, 229, 1);
+    font-weight: bold;
+}
+
